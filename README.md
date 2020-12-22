@@ -6,5 +6,10 @@ Transition to digital pathology (DP) usually takes months or years to be complet
 
 ## This repository
  This repository contains the datasets used for the analysis and commented custom code to reproduce the results (figures and tables), describing the models, the prior predictive simulations, the script for the analysis the posterior predictive simulations. 
+ 
+### Cite the work as
+Giaretto S., Renne, S.L., D. Rahal, et al. _Digital Pathology During The Epidemic Of Covid 19 In Milan, Italy._ In Press, __J Med Internet Res.__ 2020.
+### or download the .bib file 
+<a href="https://raw.githubusercontent.com/slrenne/SmartCovid/main/Citation.bib">Here</a>
 
   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
